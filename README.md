@@ -74,3 +74,7 @@ OPENAI_API_KEY=sk-...
 ```bash
 streamlit run main.py
 ```
+
+## 6. 실행 화면
+
+<img width="724" height="863" alt="스크린샷 2026-01-29 143427" src="https://github.com/user-attachments/assets/107697ec-be2c-438e-9930-2125f20da154" />
